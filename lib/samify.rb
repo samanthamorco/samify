@@ -1,5 +1,9 @@
 require "samify/version"
 
 module Samify
-  # Your code goes here...
+  class Samantha
+    def sami
+      puts "Sami"
+    end
+  end
 end
