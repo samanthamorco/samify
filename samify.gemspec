@@ -9,8 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Samantha Morco"]
   spec.email         = ["morkotiks@gmail.com"]
 
-  spec.summary       = %q{This will add the word Sami randomly.}
-  spec.description   = %q{Sami is awesome.}
+  spec.summary       = %q{This is going to replace any misspellings of Sami (i.e. Sammy, Samy, Sammi, etc.) to the correct spelling.}
   spec.homepage      = "https://github.com/samanthamorco/samify"
   spec.license       = "MIT"
 
